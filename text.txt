@@ -1,5 +1,4 @@
 Nama buah :
 1. Mangga
-2. Durian
+2. Jeruk
 3. Nanas
-4. Jeruk
